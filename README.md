@@ -1,7 +1,7 @@
 # 🤖 Olá, eu sou o Deyvid! Bem-vindo ao meu laboratório de ideias 💡
 
 Sou **entusiasta de Robótica, Engenharia e Dados**, sempre em busca de integrar **inteligência artificial, sistemas embarcados e comportamento humano**.  
-Atualmente trabalho no desenvolvimento da **IA Alyssa**, uma assistente robótica com emoções, visão computacional e corpo físico inspirado em anatomia humana.  
+Atualmente trabalho no desenvolvimento da **A.L.Y.S.S.A**, uma assistente robótica com emoções, visão computacional e corpo físico inspirado em anatomia humana.  
 
 ---
 
@@ -53,8 +53,6 @@ Atualmente trabalho no desenvolvimento da **IA Alyssa**, uma assistente robótic
 🚀 **Alyssa — Inteligência Artificial Emocional e Robótica Integrada**  
 Um sistema autônomo que une **reconhecimento de fala, emoções, visão computacional e controle físico** em um mesmo corpo robótico.  
 > “Mais do que uma IA — uma presença.”
-
----
 
 ---
 
