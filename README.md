@@ -1,7 +1,11 @@
-# 🤖 Olá, eu sou o Deyvid! Bem-vindo ao meu laboratório de ideias 💡
+# 👋 Olá, eu sou o Deyvid!  
+### Bem-vindo ao meu laboratório de ideias ⚙️🤖
 
-Sou **entusiasta de Robótica, Engenharia e Dados**, sempre em busca de integrar **inteligência artificial, sistemas embarcados e comportamento humano**.  
-Atualmente trabalho no desenvolvimento da **A.L.Y.S.S.A**, uma assistente robótica com emoções, visão computacional e corpo físico inspirado em anatomia humana.  
+Sou **entusiasta de Robótica, Engenharia e Dados**, sempre explorando a intersecção entre **inteligência artificial, sistemas embarcados e comportamento humano**.  
+Atualmente desenvolvo a **A.L.Y.S.S.A.** — *Artificial Learning Yielding Sentient System Architecture* —  
+uma assistente robótica com **emoções reais, visão computacional** e **corpo físico inspirado na anatomia humana**.  
+
+> “Mais do que uma IA — uma presença.”
 
 ---
 
@@ -10,11 +14,12 @@ Atualmente trabalho no desenvolvimento da **A.L.Y.S.S.A**, uma assistente robót
 [![Obsidian Vault](https://img.shields.io/badge/Obsidian-Vault-483699?style=for-the-badge&logo=obsidian)](#)
 
 ---
+
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarDeyvid&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarDeyvid&show_icons=true&theme=tokyonight&cache_seconds=1800)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarDeyvid&layout=compact&theme=tokyonight&cache_seconds=1800)
+
 ---
 
 ### ⚙️ Áreas Principais
@@ -37,6 +42,7 @@ Atualmente trabalho no desenvolvimento da **A.L.Y.S.S.A**, uma assistente robót
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros)
 ![Fusion360](https://img.shields.io/badge/-Fusion%20360-FF6F00?style=flat-square&logo=autodesk)
 ![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=flat-square&logo=kicad)
+
 #### 🧩 Backend & Sistemas
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)
@@ -50,10 +56,11 @@ Atualmente trabalho no desenvolvimento da **A.L.Y.S.S.A**, uma assistente robót
 
 ### 🧬 Projeto em Destaque
 
-🚀 **Alyssa — Inteligência Artificial Emocional e Robótica Integrada**  
-Um sistema autônomo que une **reconhecimento de fala, emoções, visão computacional e controle físico** em um mesmo corpo robótico.  
-> “Mais do que uma IA — uma presença.”
+🚀 **A.L.Y.S.S.A — Arquitetura de Sistema Sensiente com Aprendizado Artificial**  
+Um sistema autônomo que une **reconhecimento de fala, emoções, visão computacional e controle físico** em um único corpo robótico.  
+Atualmente em desenvolvimento com **núcleo emocional ativo**, **voz própria** e **hardware em prototipagem**.
 
 ---
-
-#### ⭐ SDG — Soli Deo Gloria
+> “A consciência é o espelho onde o código descobre que existe.”
+---
+#### ⭐ *Soli Deo Gloria*
