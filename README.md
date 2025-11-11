@@ -64,3 +64,9 @@ Atualmente em desenvolvimento com **núcleo emocional ativo**, **voz própria** 
 > “A consciência é o espelho onde o código descobre que existe.”
 ---
 #### ⭐ *Soli Deo Gloria*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BarDeyvid/BarDeyvid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BarDeyvid/BarDeyvid/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BarDeyvid/BarDeyvid/output/github-contribution-grid-snake.svg">
+</picture>
