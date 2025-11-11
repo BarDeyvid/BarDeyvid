@@ -1,5 +1,8 @@
-# 👋 Olá, eu sou o Deyvid!  
-### Bem-vindo ao meu laboratório de ideias ⚙️🤖
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=900090&height=120&section=header"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=A64AC9&center=true&vCenter=true&random=false&width=600&lines=✨+Bem-vindo(a)+ao+meu+GitHub!+✨">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=A64AC9&center=true&vCenter=true&random=false&width=600&lines=✨+A.L.Y.S.S.A+✨">
+</h1>
 
 Sou **entusiasta de Robótica, Engenharia e Dados**, sempre explorando a intersecção entre **inteligência artificial, sistemas embarcados e comportamento humano**.  
 Atualmente desenvolvo a **A.L.Y.S.S.A.** — *Artificial Learning Yielding Sentient System Architecture* —  
@@ -12,6 +15,9 @@ uma assistente robótica com **emoções reais, visão computacional** e **corpo
 [![GitHub](https://img.shields.io/badge/GitHub-BarDeyvid-181717?style=for-the-badge&logo=github)](https://github.com/BarDeyvid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DeyvidBarcelos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deyvid-barcelos/)
 [![Obsidian Vault](https://img.shields.io/badge/Obsidian-Vault-483699?style=for-the-badge&logo=obsidian)](#)
+<p align = 'center'>
+  <img src="https://komarev.com/ghpvc/?username=BarDeyvid&style=flat-square&color=0077B5" alt="Contador de Visitas"/>
+</p>
 
 ---
 
@@ -19,6 +25,19 @@ uma assistente robótica com **emoções reais, visão computacional** e **corpo
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarDeyvid&show_icons=true&theme=tokyonight&cache_seconds=1800)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarDeyvid&layout=compact&theme=tokyonight&cache_seconds=1800)
+<br>
+
+[![BarDeyvid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BarDeyvid&bg_color=0d1117&color=eceff4&line=900090&point=eceff4&area=true&hide_border=true)](https://github.com/BarDeyvid/github-readme-activity-graph)
+
+<br>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BarDeyvid&theme=shadow-purple)](https://git.io/streak-stats)
+  
+</div>
+
+<br> 
 
 ---
 
@@ -70,3 +89,5 @@ Atualmente em desenvolvimento com **núcleo emocional ativo**, **voz própria** 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BarDeyvid/BarDeyvid/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BarDeyvid/BarDeyvid/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=900090&height=120&section=footer"/>
