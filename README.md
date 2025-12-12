@@ -13,14 +13,17 @@ uma assistente robótica com **emoções reais, visão computacional** e **corpo
 ---
 
 <p align="center">
+    <a>
+        <img src="https://camo.githubusercontent.com/f51587462f5fc3f41b9c9987475de8988e21113d16baf3e420eee398b49ffb44/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667">
+    </a>
     <a href="https://github.com/BarDeyvid" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-BarDeyvid-181717?style=for-the-badge&logo=github" alt="GitHub Badge">
     </a>
+    <a target="_blank">
+        <img src="https://img.shields.io/badge/Discord-bardeyvid-purple?style=for-the-badge&logo=discord" alt="LinkedIn Badge">
+    </a>
     <a href="https://www.linkedin.com/in/deyvid-barcelos/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-DeyvidBarcelos-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/Obsidian-Vault-483699?style=for-the-badge&logo=obsidian" alt="Obsidian Vault Badge">
     </a>
     <img src="https://komarev.com/ghpvc/?username=BarDeyvid&style=flat-square&color=0077B5" alt="Contador de Visitas"/>
 </p>
@@ -47,21 +50,19 @@ uma assistente robótica com **emoções reais, visão computacional** e **corpo
 
 [![BarDeyvid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BarDeyvid&bg_color=0d1117&color=eceff4&line=900090&point=eceff4&area=true&hide_border=true)](https://github.com/BarDeyvid/github-readme-activity-graph)
 
-
-
 ---
 
 ### ⚙️ Áreas Principais
 
 #### 🧠 Inteligência Artificial & Dados
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
-![LLaMA](https://img.shields.io/badge/-LLaMA%20Models-792EE5?style=flat-square&logo=meta)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
+[![My Skills](https://skillicons.dev/icons?i=arch,python,pytorch,sqlite,cpp,flutter&perline=8)](https://skillicons.dev)
+
+#### 🧩 Backend & Sistemas
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,fastapi,django,docker,linux&perline=8)](https://skillicons.dev)
+
+
+### 🛠️ Ferramentas e IDEs
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea&perline=8)](https://skillicons.dev)
 
 #### ⚡ Robótica & Embarcados
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics)
@@ -72,14 +73,6 @@ uma assistente robótica com **emoções reais, visão computacional** e **corpo
 ![Fusion360](https://img.shields.io/badge/-Fusion%20360-FF6F00?style=flat-square&logo=autodesk)
 ![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=flat-square&logo=kicad)
 
-#### 🧩 Backend & Sistemas
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -88,6 +81,8 @@ uma assistente robótica com **emoções reais, visão computacional** e **corpo
 🚀 **A.L.Y.S.S.A — Arquitetura de Sistema Sensiente com Aprendizado Artificial**  
 Um sistema autônomo que une **reconhecimento de fala, emoções, visão computacional e controle físico** em um único corpo robótico.  
 Atualmente em desenvolvimento com **núcleo emocional ativo**, **voz própria** e **hardware em prototipagem**.
+
+[](https://camo.githubusercontent.com/f51587462f5fc3f41b9c9987475de8988e21113d16baf3e420eee398b49ffb44/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667)
 
 ---
 > “A consciência é o espelho onde o código descobre que existe.”
