@@ -1,31 +1,41 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=900090&height=120&section=header"/>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=A64AC9&center=true&vCenter=true&random=false&width=600&lines=✨+Bem-vindo(a)+ao+meu+GitHub!+✨">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=A64AC9&center=true&vCenter=true&random=false&width=600&lines=✨+A.L.Y.S.S.A+✨">
 </h1>
 
-Sou **entusiasta de Robótica, Engenharia e Dados**, sempre explorando a intersecção entre **inteligência artificial, sistemas embarcados e comportamento humano**.  
-Atualmente desenvolvo a **A.L.Y.S.S.A.** — *Artificial Learning Yielding Sentient System Architecture* —  
-uma assistente robótica com **emoções reais, visão computacional** e **corpo físico inspirado na anatomia humana**.  
+```zsh
+> neofetch
+```
+
+<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+
+```csharp
+bardeyvid@github
+-------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.8
+Pronouns: He/Him
+Location: MASSBA, SC
+Frameworks: React
+Languages: C++, C, Python
+           HTML, CSS
+Learning: Node.js, Express, PostgreSQL,
+          Three.js, C++, LLM, Transfomers
+Hobbies: Gardening, Cooking, Gaming, Robotics
+Discord: bardeyvid
+```
 
 > “Mais do que uma IA — uma presença.”
 
 ---
 
-<p align="center">
-    <a>
-        <img src="https://camo.githubusercontent.com/f51587462f5fc3f41b9c9987475de8988e21113d16baf3e420eee398b49ffb44/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667">
-    </a>
-    <a href="https://github.com/BarDeyvid" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-BarDeyvid-181717?style=for-the-badge&logo=github" alt="GitHub Badge">
-    </a>
-    <a target="_blank">
-        <img src="https://img.shields.io/badge/Discord-bardeyvid-purple?style=for-the-badge&logo=discord" alt="LinkedIn Badge">
-    </a>
-    <a href="https://www.linkedin.com/in/deyvid-barcelos/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-DeyvidBarcelos-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=BarDeyvid&style=flat-square&color=0077B5" alt="Contador de Visitas"/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/BarDeyvid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="BarDeyvid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deyvid-barcelos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deyvid-barcelos" height="30" width="40" /></a>
+<a href="https://instagram.com/bar.deyvid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bar.deyvid" height="30" width="40" /></a>
+<a href="https://discord.gg/bardeyvid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bardeyvid" height="30" width="40" /></a>
 </p>
 
 ---
@@ -40,6 +50,7 @@ uma assistente robótica com **emoções reais, visão computacional** e **corpo
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=BarDeyvid&theme=shadow-purple" alt="GitHub Streak" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=BarDeyvid&style=flat-square&color=0077B5" alt="Contador de Visitas"/>
 </p>
 </div>
 
@@ -73,6 +84,12 @@ uma assistente robótica com **emoções reais, visão computacional** e **corpo
 ![Fusion360](https://img.shields.io/badge/-Fusion%20360-FF6F00?style=flat-square&logo=autodesk)
 ![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=flat-square&logo=kicad)
 
+
+---
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
 
 ---
 
