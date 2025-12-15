@@ -89,8 +89,7 @@ Discord: bardeyvid
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314jkgqlk27p6jopcnm63byzg3ki&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=314jkgqlk27p6jopcnm63byzg3ki&redirect=true)
 ---
 
 ### 🧬 Projeto em Destaque
