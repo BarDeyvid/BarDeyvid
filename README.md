@@ -71,6 +71,8 @@ Discord: bardeyvid
 #### 🧩 Backend & Sistemas
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,fastapi,django,docker,linux&perline=8)](https://skillicons.dev)
 
+#### 🎨 Modern Frontend & UI/UX
+[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,vite,html,css&perline=8)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas e IDEs
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea&perline=8)](https://skillicons.dev)
