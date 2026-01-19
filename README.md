@@ -7,7 +7,14 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img
+  align="left"
+  src="https://github.com/BarDeyvid/BarDeyvid/blob/main/src/alyssa_cropped.jpg?raw=true"
+  alt="Alyssa"
+  width="320"
+  style="border-radius: 16px; box-shadow: 0 8px 24px rgba(144,0,144,0.25);"
+/>
+
 
 ```csharp
 bardeyvid@github
