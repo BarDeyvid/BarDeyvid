@@ -44,11 +44,9 @@ Discord: bardeyvid
 
 <div align="center">
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=BarDeyvid&show_icons=true&theme=tokyonight&cache_seconds=1800&width=350" alt="GitHub Stats" />
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=BarDeyvid&theme=shadow-purple" alt="GitHub Streak" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=BarDeyvid&style=flat-square&color=0077B5" alt="Contador de Visitas"/>
 </p>
 </div>
 
